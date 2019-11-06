@@ -1,3 +1,5 @@
+
+
 li {
     padding: 5px;
     margin: 5px;
@@ -18,18 +20,27 @@ li {
     margin-bottom: 5px;
 }
 
-container {
-    
+/* header {
+    background-image: url(../img/header.jpg);
+} */
+
+body {
+    background-image: url(../img/background.jpg);
+}
+
+.jumbotron {
+    background-color: red;
+    background-image: url(../img/header.jpg);
 }
 
 #burger {
-
+    background-color: white;
 }
 
 #devoured {
-
+    background-color: white;
 }
 
 #add-burger {
-
+    background-color: white;
 }
